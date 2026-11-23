@@ -1,6 +1,7 @@
 # Olá, eu sou o Luiz Andrade!
 
-Estudante de **Engenharia de Controle e Automação** na **UFSC**, com foco em **Python**, **Visão Computacional**, **Estruturas de Dados** e **Automação**.
+Estudante de **Engenharia de Controle e Automação** na **UFSC**, com foco em **Python**, **Análise de dados** e **Automação**.
+Aqui você encontrará projetos pessoais e da Faculdade.
 
 ## Projetos em destaque
 
